@@ -7,11 +7,9 @@ Beach Volleyball
 Boxing
 Canoe Slalom
 Canoe Sprint
-Cycling BMX
 Cycling Mountain Bike
 Cycling Road
 Cycling Track
-Diving
 Equestrian
 Fencing
 Football
@@ -19,10 +17,13 @@ Golf
 Handball
 Hockey
 Judo
+Jumping On One Leg
+Matkot On Israel Beaches
 Marathon Swimming
 Modern Pentathlon
 Rhythmic Gymnastics
 Rowing
+Ruby Coding
 Rugby Sevens
 Sailing
 Shooting
