@@ -37,3 +37,5 @@ Volleyball
 WaterPolo
 Weightlifting
 Wrestling
+Dodge Ball
+Rope Jumping
